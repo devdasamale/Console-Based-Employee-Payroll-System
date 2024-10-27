@@ -10,3 +10,16 @@ The **Console-Based Employee Payroll System** is a Java application using Object
 5. **User-Friendly Console Interface**: With straightforward menu-driven options, administrators can easily navigate through payroll functions.
 
 This project serves as a practical, console-based tool for small organizations to manage and view employee payroll details effectively.
+
+
+# Results
+
+![image](https://github.com/user-attachments/assets/81dbce1f-b10b-427f-a9c4-6b0a77269a54)
+
+![image](https://github.com/user-attachments/assets/4fce68e9-24db-4223-8017-7569e4a4e983)
+
+
+![image](https://github.com/user-attachments/assets/bacdcd55-1c84-47a8-8a59-8fc699a00cd6)
+
+
+
